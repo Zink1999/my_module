@@ -1,0 +1,56 @@
+.qw{
+	width:300px;
+	height: 105px;
+	background-color: pink;
+	padding:20px;
+}
+
+.we{
+	width:90px;
+	height: 90px;
+	background-color: red;
+	display: inline-block;
+	margin: -3px;
+}
+
+.rt{
+	width:90px;
+	height:90px;
+	background-color: blue;
+	display: inline-block;
+	margin: -3px;
+}
+
+.as{
+	width:90px;
+	height: 90px;
+	background-color: green;
+	display: inline-block;
+	margin: -3px;
+}
+
+.aa{
+	width: 90px;
+	height: 90px;
+	background-color: pink;
+	position:fixed;
+}
+
+.a1{
+	width: 90px;
+	height: 90px;
+	background-color: green;
+	position:fixed;
+	margin: 40px;
+}
+
+.a2{
+	width: 90px;
+	height: 90px;
+	background-color: red;
+	position:fixed;
+	margin: 80px;
+}
+
+
+
