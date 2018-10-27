@@ -1,1 +1,1 @@
-# snake
+# my_module
